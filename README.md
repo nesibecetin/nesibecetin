@@ -1,5 +1,4 @@
-Hi There 👋, I'm Nesibe
-
+<h1 align="center">Hi There 👋, I'm Nesibe</h1>
 <br>- 🌱 I’m currently learning ** .Net, React.js and Angularjs**<br><br>- 📫 How to reach me **nesibe3cetin@gmail.com**<br><br>- 📄 Know about my experiences [https://nesibe-cetin.netlify.app/](https://nesibe-cetin.netlify.app/)
 
 
